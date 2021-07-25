@@ -1,0 +1,13 @@
+
+html{
+    overflow-x: hidden;
+    line-height: 1.7;
+}
+@font-face{
+	font-family: 'Nexa-bold.otf';
+	src: url('../fonts/Nexa\ Bold.otf');
+}
+@font-face{
+	font-family: 'Nexa-light.otf';
+	src: url('../fonts/Nexa\ Light.otf');
+}
